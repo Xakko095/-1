@@ -80,7 +80,7 @@ public class Main {
         for (int i = 1; i <= 12; i++) {
             total = total + total / 100;
             total = money + total;
-            System.out.println("Месяц " + i + " сумма накоплений равна " + total);
+            System.out.println("Месяц " + i + " сумма накоплений равна- " + total);
         }
     }
 
